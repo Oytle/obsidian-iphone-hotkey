@@ -1,0 +1,11 @@
+{
+	"id": "hotkey navigator",
+	"name": "iPhone hotkey external keyboard iPad iOS shortcut editor navigator",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Hotkeys for typing, design for iPhone + physical keyboard. With this plugin you can throw away your computer and take note with your phone. Windows is Ok too.",
+	"author": "Oytle",
+	"authorUrl": "https://github.com/Oytle",
+	"fundingUrl": "https://github.com/Oytle",
+	"isDesktopOnly": false
+}
