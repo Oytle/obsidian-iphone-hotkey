@@ -4,6 +4,7 @@ useful hotkey for taking note with external keyboard + iPhone. I made this as I 
 # Useful combination that could be defined
 It's possible to define the following very useful combination:
 - Capslock + i/j/k/l == Up/Left/Down/Right
+- Capslock + Alt(cmd) + i/j/k/l == Shift + Up/Left/Down/Right (for selection)
 - Capslock + u/o == {Left * 4} / {Right * 4}
 etc.
 
