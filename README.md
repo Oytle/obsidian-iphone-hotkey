@@ -9,6 +9,6 @@ It's possible to define the following very useful combination:
 etc.
 
 # Install
-Install the BRAT (Community plugins)
-Add beta theme, paste this github URL.
-Done!
+1. Install the BRAT (Community plugins)
+2. Add beta theme, paste this github URL.
+3. Done!
